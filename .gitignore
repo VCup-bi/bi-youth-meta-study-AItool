@@ -1,0 +1,6 @@
+.*.swp
+tags
+*.csv
+*.xlsx
+*.ris
+.env
